@@ -11,3 +11,4 @@
 http://console.huaweicloud.com/cce2.0/
 
 注意，登录后选择左上区域亚太-香港
+![image](https://github.com/pintudeyudi/blogs/blob/master/testsnap.PNG)
